@@ -1,0 +1,10 @@
+.rodapeDaPagina{
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 100%;
+}
+.rodapeDaPagina img{
+    padding: 20px;
+}
